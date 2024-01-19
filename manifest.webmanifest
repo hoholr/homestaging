@@ -1,0 +1,15 @@
+{
+  "short_name": "Homestaging by Robert",
+  "name": "Homestaging by Robert",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "https://hoholr.github.io/ipkalkulator/",
+  "icons": [
+    { "src": "favicon.svg", "type": "image/png", "sizes": "192x192" },
+    { "src": "favicon.svg", "type": "image/png", "sizes": "512x512" }
+  ],
+  "display": "fullscreen"
+}
